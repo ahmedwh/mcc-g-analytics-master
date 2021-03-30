@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "205015409703",
+    "firebase_url": "https://carbon-hulling-276811.firebaseio.com",
+    "project_id": "carbon-hulling-276811",
+    "storage_bucket": "carbon-hulling-276811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205015409703:android:7532bd3bf364bb347eda02",
+        "android_client_info": {
+          "package_name": "com.example.quranapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCNHHz4O-uAp35pFsCcXxn8HZpJn3RQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205015409703:android:e9c754efbfd798ef7eda02",
+        "android_client_info": {
+          "package_name": "com.hamada.sinwar.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCNHHz4O-uAp35pFsCcXxn8HZpJn3RQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205015409703:android:f783f832f3e085207eda02",
+        "android_client_info": {
+          "package_name": "com.hamadasinwar.quran_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCNHHz4O-uAp35pFsCcXxn8HZpJn3RQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205015409703:android:7e24bab36fc870ed7eda02",
+        "android_client_info": {
+          "package_name": "com.internshala.echo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCNHHz4O-uAp35pFsCcXxn8HZpJn3RQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205015409703-h8a31qrl58dr4548r69mrvl7j80pbnep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
